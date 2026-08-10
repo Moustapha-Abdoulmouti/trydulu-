@@ -1,0 +1,10 @@
+streamlit
+# The saved .keras artifact was created with Keras 3; TensorFlow supplies the runtime.
+tensorflow-cpu
+scikit-learn
+joblib
+pandas
+numpy
+yfinance>=0.2.54
+ta
+plotly
